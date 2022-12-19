@@ -16,8 +16,20 @@ for the table component to render correctly.
 
 ## Skeleton
 
-Below is the full-featured skeleton of the `Table` component:
+Below is the full-featured skeleton of the `Table` component integrated with
+[useColumnDef](/docs/admin-web-app/hooks/use-column-def) and [useTable](/docs/admin-web-app/hooks/use-table):
 ```tsx
+const defs = useColumnDef({
+  columns: [
+    //...insert column defs
+  ]
+});
+
+const table = useTable({
+  ...defs,
+  data
+});
+
 <Table {...table}>
   <Table.GlobalActions>
     <Table.GlobalRefresh onRefresh={onRefresh} />

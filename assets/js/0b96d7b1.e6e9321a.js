@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[228],{6990:e=>{e.exports=JSON.parse('{"title":"Hooks","slug":"/category/hooks","permalink":"/docs/category/hooks","navigation":{"previous":{"title":"Page Layout","permalink":"/docs/admin-web-app/page-layout"},"next":{"title":"useTable","permalink":"/docs/admin-web-app/hooks/use-table"}}}')}}]);

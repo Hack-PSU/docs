@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[43],{1990:e=>{e.exports=JSON.parse('{"title":"Widgets","slug":"/category/widgets","permalink":"/docs/category/widgets","navigation":{"previous":{"title":"WebSocket","permalink":"/docs/mobile-app/api/websocket"},"next":{"title":"Screen","permalink":"/docs/mobile-app/widgets/screen"}}}')}}]);

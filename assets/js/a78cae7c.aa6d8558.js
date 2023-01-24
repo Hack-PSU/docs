@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[101],{7585:e=>{e.exports=JSON.parse('{"title":"API","slug":"/category/api","permalink":"/docs/category/api","navigation":{"previous":{"title":"Screens","permalink":"/docs/mobile-app/screens"},"next":{"title":"API Client","permalink":"/docs/mobile-app/api/client"}}}')}}]);

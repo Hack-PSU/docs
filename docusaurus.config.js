@@ -8,8 +8,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'HackPSU',
   tagline: '',
-  url: 'https://hackpsu.org',
-  baseUrl: '/',
+  url: 'https://hack-psu.github.io',
+  baseUrl: '/docs',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',

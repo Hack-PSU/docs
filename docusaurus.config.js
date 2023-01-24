@@ -8,8 +8,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'HackPSU',
   tagline: '',
-  url: 'https://hack-psu.github.io/docs',
-  baseUrl: '/',
+  url: 'https://hack-psu.github.io',
+  baseUrl: '/docs',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
@@ -40,6 +40,7 @@ const config = {
           // Remove this to remove the "edit this page" links.
           editUrl:
             'https://github.com/Hack-PSU/docs',
+          routeBasePath: "/"
         },
         blog: false,
         theme: {

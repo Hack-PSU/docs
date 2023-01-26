@@ -11,7 +11,7 @@ of design and API. The `Table` component is a wrapper over the
 required to create a stable and data-generic component. 
 
 The `Table` component uses a nested component pattern to access certain features of the table. Most of its features
-are optional and can be easily opted out by building a different skeleton. Some structures however, is required
+are optional and can be easily opted out by building a different skeleton. Some structures however, are required
 for the table component to render correctly.
 
 ## Skeleton
